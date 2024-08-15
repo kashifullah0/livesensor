@@ -1,3 +1,2 @@
-pymongo==4.0.2
-
--e .
+pymongo[srv]==4.2.0
+-e .  #editable mode
